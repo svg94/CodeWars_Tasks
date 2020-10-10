@@ -22,3 +22,4 @@ SameSumArray: "You are going to be given an array of integers. Your job is to ta
 Square: "Given an integral number, determine if it's a square number"
 
 ValidBraces: "Write a function that takes a string of braces, and determines if the order of the braces is valid."
+SpinningStrings: "Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed"
